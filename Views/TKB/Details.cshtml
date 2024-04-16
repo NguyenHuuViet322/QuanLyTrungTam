@@ -1,0 +1,94 @@
+﻿@using QuanLyTruongHoc.Models
+@using QuanLyTruongHoc.Models.QuanLyNghiepVu
+@model TKB
+@inject QuanLyTruongHocConText _context
+
+@{
+    ViewData["Title"] = "Chi tiết thời khóa biểu";
+    ViewData["Desc"] = "Thông tin chi tiết thời khóa biểu";
+    Layout = "~/Views/Shared/_InnerLayout.cshtml";
+    int stt = 0;
+
+    var lstLopHoc = _context.classes.ToList();
+    var lstTKBList = _context.tKBItems.Where(p => p.IdTKB == Model.Id).ToList();
+    var lstMonHoc = _context.monHocs.ToList();
+    var lstGiaoVien = _context.Teachers.ToList();
+}
+<style>
+    th, td {
+        text-align: center;
+        vertical-align: central;
+    }
+</style>
+
+@foreach (var lopHoc in lstLopHoc) {
+        var lstTKBByClass = lstTKBList.Where(p => p.IdLop == lopHoc.Id);
+<div class="card">
+    <div class="card-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="schedule-table">
+                            @foreach(var item in lstLopHoc)
+                            {
+                                <table class="table bg-white">
+                                    <thead>
+                                        <tr>
+                                            <th style="width:22%">@lopHoc.Name</th>
+                                            <th style="width:13%">Ca 1</th>
+                                            <th style="width:13%">Ca 2</th>
+                                            <th style="width:13%">Ca 3</th>
+                                            <th style="width:13%">Ca 4</th>
+                                            <th style="width:13%">Ca 5</th>
+                                            <th class="last">Ca 6</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @for(var i=2;i<=8;i++)
+                                        {
+                                            <tr>
+                                                    @{
+                                                        if (i!=8)
+                                                        {
+                                                            <td class="day">Thứ @i</td>;
+                                                        } else
+                                                        {
+                                                            <td class="day">Chủ nhật</td>;
+                                                        }
+                                                    }
+                                                @for(int j=1;j<=5;j++)
+                                                {
+                                                    var tkbItem = lstTKBList.FirstOrDefault(p => p.day == i.ToString() && p.tietHoc == j && p.IdLop == item.Id);
+                                                    if (tkbItem is null)
+                                                    {
+                                                        <td></td>
+                                                    }
+                                                    else
+                                                    {
+                                                        var monHoc = lstMonHoc.FirstOrDefault(p => p.Id == tkbItem.IdMonHoc);
+                                                        var giaoVien = lstGiaoVien.FirstOrDefault(p => p.Id == tkbItem.IdGiaoVien);
+                                                        <td class="active">
+                                                            <h4>@monHoc.Name</h4>
+                                                            <p>@giaoVien.name</p>
+                                                            <div class="hover">
+                                                                <h4>@monHoc.Name</h4>
+                                                                <p>@giaoVien.name</p>
+                                                                <span>Ca @i</span>
+                                                            </div>
+                                                        </td>
+                                                    }
+                                                }
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+}
+
+

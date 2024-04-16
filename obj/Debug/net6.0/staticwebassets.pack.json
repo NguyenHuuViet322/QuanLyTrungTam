@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuanLyTrungTam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuanLyTrungTam.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\VMU.png",
+      "PackagePath": "staticwebassets\\img\\VMU.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\bg2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\demoUpload.jpg",
+      "PackagePath": "staticwebassets\\img\\demoUpload.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\kaine.jpg",
+      "PackagePath": "staticwebassets\\img\\kaine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\kaine1.jpg",
+      "PackagePath": "staticwebassets\\img\\kaine1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\login.png",
+      "PackagePath": "staticwebassets\\img\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\login1.jpg",
+      "PackagePath": "staticwebassets\\img\\login1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\logo-invoice.jpg",
+      "PackagePath": "staticwebassets\\img\\logo-invoice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\logo-invoice.png",
+      "PackagePath": "staticwebassets\\img\\logo-invoice.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\portfolio\\b.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\portfolio\\c.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\c.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\portfolio\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\portfolio\\e.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\portfolio\\g.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\portfolio\\h.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\slideshow\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\slideshow\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\slideshow\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\slideshow\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\slideshow\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\slideshow\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\img\\user2.png",
+      "PackagePath": "staticwebassets\\img\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\QuanLyTruongHoc - Copy\\QuanLyTruongHoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QuanLyTrungTam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QuanLyTrungTam.props",
+      "PackagePath": "build\\QuanLyTrungTam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QuanLyTrungTam.props",
+      "PackagePath": "buildMultiTargeting\\QuanLyTrungTam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QuanLyTrungTam.props",
+      "PackagePath": "buildTransitive\\QuanLyTrungTam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

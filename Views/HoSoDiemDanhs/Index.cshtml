@@ -1,0 +1,135 @@
+﻿@using QuanLyTruongHoc.Models.QuanLyConNguoi
+@using QuanLyTruongHoc.Models.QuanLyNghiepVu;
+@using QuanLyTruongHoc.Models.Utils
+@using QuanLyTruongHoc.Models
+@model IEnumerable<Class>
+@inject QuanLyTruongHocConText _context
+
+@{
+    ViewData["Title"] = "Danh sách vắng";
+    ViewData["Desc"] = "Danh sách vắng học sinh hôm nay";
+    Layout = "~/Views/Shared/_InnerLayout.cshtml";
+    int stt = 0;
+
+
+    var lstClass = Model.ToList();
+}
+
+<style>
+    .checkbox label:after,
+    .radio label:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+
+    .checkbox .cr,
+    .radio .cr {
+        position: relative;
+        display: inline-block;
+        border: 1px solid #a9a9a9;
+        border-radius: .25em;
+        width: 1.3em;
+        height: 1.3em;
+        float: left;
+        margin-right: .5em;
+    }
+
+    .radio .cr {
+        border-radius: 50%;
+    }
+
+        .checkbox .cr .cr-icon,
+        .radio .cr .cr-icon {
+            position: absolute;
+            font-size: .8em;
+            line-height: 0;
+            top: 50%;
+            left: 20%;
+        }
+
+        .radio .cr .cr-icon {
+            margin-left: 0.04em;
+        }
+
+    .checkbox label input[type="checkbox"],
+    .radio label input[type="radio"] {
+        display: none;
+    }
+
+        .checkbox label input[type="checkbox"] + .cr > .cr-icon,
+        .radio label input[type="radio"] + .cr > .cr-icon {
+            transform: scale(3) rotateZ(-20deg);
+            opacity: 0;
+            transition: all .3s ease-in;
+        }
+
+        .checkbox label input[type="checkbox"]:checked + .cr > .cr-icon,
+        .radio label input[type="radio"]:checked + .cr > .cr-icon {
+            transform: scale(1) rotateZ(0deg);
+            opacity: 1;
+        }
+
+        .checkbox label input[type="checkbox"]:disabled + .cr,
+        .radio label input[type="radio"]:disabled + .cr {
+            opacity: .5;
+        }
+</style>
+
+<form asp-controller="HoSoDiemDanhs" asp-action="DiemDanh" method="post">
+@foreach(var lopHoc in lstClass) {
+     var listHocSinh = _context.Students.Where(p => p.IdLop == lopHoc.Id).ToList(); 
+
+    <a class="btn btn-primary" data-toggle="collapse" type="button" href="#lopHoc.@lopHoc.Id">
+        <i class="fa fa-users"></i>
+        @lopHoc.Name
+    </a>
+
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>
+                        STT
+                    </th>
+                    <th>
+                        Tên học sinh
+                    </th>
+                    <th>
+                        Ngày sinh
+                    </th>
+                    <th>
+                        Vắng
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in listHocSinh)
+                {
+                    stt++;
+                    <tr>
+                        <td>@stt</td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.name)
+                        </td>
+                        <td>
+                            @Utils.TimeToString(item.ngaySinh)
+                        </td>
+                        <td>
+                            <label>
+                                <input type="radio" name="listVang" value="@item.Id">
+                                Vắng
+                            </label>
+                        </td>
+                    </tr>
+                }
+                    
+            </tbody>
+        </table>
+        
+
+}
+    <div class="form-group">
+        <input type="submit" value="Lưu" class="btn btn-success" />
+    </div>
+</form>
